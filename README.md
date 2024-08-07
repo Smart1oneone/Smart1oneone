@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi there, I'm Alexander <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend Python developer</h3>
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Smart1oneone/Smart1oneone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
