@@ -9,7 +9,12 @@
 <br>
 
 
-
+- Books I've read
+	- "Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas
+ 	- "Код. Тайный язык информатики" Charles Petzold
+  	- "Совершенный код" Steve McConnell
+  	- "Грокаем алгоритмы" Aditya Y. Bhargava
+  	- "Изучаем Python" Mark Lutz 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
