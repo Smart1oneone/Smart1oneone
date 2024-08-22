@@ -4,7 +4,7 @@
 <h1 align="center"><b> My projects</b></h1>
 - <a href="https://github.com/Smart1oneone/PizzaBot">Telegram bot Bot for e-commerce site</a>
 	- Used Aiohttp, Aiogram, sqlalchemy, Postgresql
- -<a href="https://github.com/Smart1oneone/Shop">E-commerce site</a>
+- <a href="https://github.com/Smart1oneone/Shop">E-commerce site</a>
  	- Used Django, DRF, Celery, Postgres, Redis, Docker, pytest, bootstrap, JS ajax, Nginx, Crispy Forms
   	- You can try it, using docker, YML file included
 <h1 align="center"><b> Skills </b></h1>
