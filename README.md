@@ -50,7 +50,7 @@
 
 
 - Books I've read
-	- "Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas
+	- <a>"Программист-прагматик: Путь от подмастерья к мастеру"</a> Andrew Hunt, Dave Thomas
  	- "Clean Code Book"  Robert Martin
 	- "Идеальный программист" Robert Martin
  	- "Scrum: The Art of Doing Twice the Work in Half the Time" - Jeff Suzzerland
