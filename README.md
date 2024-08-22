@@ -2,36 +2,6 @@
 <h1 align="center"><b>Hi , I'm Alexander Voloshin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-
-<br>
-
-
-- Books I've read
-	- "Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas
- 	- "Clean Code Book"  Robert Martin
-	- "Идеальный программист" Robert Martin
- 	- "Scrum: The Art of Doing Twice the Work in Half the Time" - Jeff Suzzerland
- 	- "Код. Тайный язык информатики" Charles Petzold
-  	- "Совершенный код" Steve McConnell
-  	- "Грокаем алгоритмы" Aditya Y. Bhargava
-  	- "Изучаем Python" Mark Lutz 
-	
-
-<br>
-
-<h1 align="center"><b>About me</b></h1>
-<!--  -->
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -79,6 +49,38 @@
 
 <br>
 <br>
+<br>
+
+<h1 align="center"><b>About me</b></h1>
+<!--  -->
+
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+
+
+- Books I've read
+	- "Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas
+ 	- "Clean Code Book"  Robert Martin
+	- "Идеальный программист" Robert Martin
+ 	- "Scrum: The Art of Doing Twice the Work in Half the Time" - Jeff Suzzerland
+ 	- "Код. Тайный язык информатики" Charles Petzold
+  	- "Совершенный код" Steve McConnell
+  	- "Грокаем алгоритмы" Aditya Y. Bhargava
+  	- "Изучаем Python" Mark Lutz 
+	
+
+
+
+
 
 -----
 
