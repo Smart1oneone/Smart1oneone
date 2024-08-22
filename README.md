@@ -7,7 +7,7 @@
 
 <p align="center">
 
-- :
+- 
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
     ![Django Rest Framework](https://img.shields.io/badge/django--rest--framework-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue)
