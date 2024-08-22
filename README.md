@@ -4,7 +4,7 @@
 <h1 align="center"><b> My projects</b></h1>
 <br>
 
-- <b>Telegram Bot for e-commerce site</b>  <a href="https://github.com/Smart1oneone/PizzaBot">🔗</a>
+- <b>Telegram Bot for e-commerce site</b> - <a href="https://github.com/Smart1oneone/PizzaBot">🔗</a>
 	- Used Aiohttp, Aiogram, sqlalchemy, Postgresql
 	-
 - <b>E-commerce site</b> - <a href="https://github.com/Smart1oneone/Shop">🔗</a>
