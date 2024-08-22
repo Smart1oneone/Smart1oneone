@@ -18,7 +18,9 @@
 	
 
 <br>
-**About me**
+
+<h1 align="center"><b>About me</b></h1>
+<!--  -->
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
