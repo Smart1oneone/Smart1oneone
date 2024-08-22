@@ -4,13 +4,13 @@
 <h1 align="center"><b> My projects</b></h1>
 <br>
 
-- <b>Telegram Bot for e-commerce site</b> 
+- <b>Telegram Bot for e-commerce site</b>  <a href="https://github.com/Smart1oneone/PizzaBot">🔗</a>
 	- Used Aiohttp, Aiogram, sqlalchemy, Postgresql
-	- <a href="https://github.com/Smart1oneone/PizzaBot">🔗</a>
-- <b>E-commerce site</b> 
+	-
+- <b>E-commerce site</b> - <a href="https://github.com/Smart1oneone/Shop">🔗</a>
  	- Used Django, DRF, Celery, Postgres, Redis, Docker, pytest, bootstrap, JS ajax, Nginx, Crispy Forms
   	- You can try it, using docker, YML file included
-  	- <a href="https://github.com/Smart1oneone/Shop">🔗</a>
+  	
 <h1 align="center"><b> Skills </b></h1>
 <br>
 
