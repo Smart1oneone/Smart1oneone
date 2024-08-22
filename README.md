@@ -25,10 +25,7 @@
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   
-
-<br>
-<br>
-<br>
+<h1 align="center"><b>Contacts</b></h1>
 
 <h1 align="center"><b>About me</b></h1>
 <!--  -->
