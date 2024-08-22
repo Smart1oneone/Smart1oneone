@@ -18,6 +18,7 @@
 	
 
 <br>
+**About me**
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
